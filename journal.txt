@@ -1,1 +1,2 @@
 Jour 1 - Formation Git : prise en main
+Jour 2 - Apprentissage des branches
